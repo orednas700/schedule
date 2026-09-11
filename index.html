@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Master Schedule</title>
+  <style>
+    :root {
+      --bg: #f5f7fb;
+      --card: #ffffff;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --border: #dfe5ee;
+      --primary: #1d4ed8;
+      --primary-soft: #e8f0ff;
+      --row-alt: #f9fafb;
+      --success: #0f766e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 32px auto;
+      padding: 0 16px;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 22px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.8rem, 2vw, 2.5rem);
+    }
+
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: var(--card);
+      padding: 12px 16px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+    }
+
+    label {
+      font-weight: 600;
+      color: var(--muted);
+    }
+
+    select {
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: white;
+      font-size: 1rem;
+      min-width: 320px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+      overflow: hidden;
+    }
+
+    .module-header {
+      padding: 20px 22px;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, #f8fbff, #ffffff);
+    }
+
+    .module-header h2 {
+      margin: 0 0 6px;
+      font-size: clamp(1.2rem, 2vw, 1.7rem);
+    }
+
+    .coordinator {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.96rem;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      padding: 12px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+
+    th {
+      background: var(--primary-soft);
+      color: var(--primary);
+      font-size: 0.85rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    tbody tr:nth-child(even) {
+      background: var(--row-alt);
+    }
+
+    .time {
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .topic {
+      font-weight: 600;
+    }
+
+    .empty {
+      padding: 28px 18px;
+      text-align: center;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    @media (max-width: 760px) {
+      select {
+        min-width: 100%;
+      }
+
+      .header {
+        align-items: stretch;
+      }
+
+      .controls {
+        width: 100%;
+        display: block;
+      }
+
+      .controls label {
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      table, thead, tbody, th, td, tr {
+        display: block;
+      }
+
+      thead {
+        display: none;
+      }
+
+      tr {
+        border-bottom: 1px solid var(--border);
+        padding: 12px;
+      }
+
+      td {
+        border: none;
+        padding: 8px 0;
+      }
+
+      td::before {
+        content: attr(data-label);
+        display: block;
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin-bottom: 4px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Academic Schedule</h1>
+
+      <div class="controls">
+        <label for="moduleSelect">Module:</label>
+        <select id="moduleSelect"></select>
+      </div>
+    </div>
+
+    <div class="card">
+      <div id="moduleHeader" class="module-header"></div>
+      <div id="tableWrap"></div>
+    </div>
+  </div>
+
+  <script>
+    const moduleSelect = document.getElementById("moduleSelect");
+    const moduleHeader = document.getElementById("moduleHeader");
+    const tableWrap = document.getElementById("tableWrap");
+
+    const weekdayOrder = {
+      "lunes": 1,
+      "martes": 2,
+      "miércoles": 3,
+      "jueves": 4,
+      "viernes": 5,
+      "sábado": 6,
+      "domingo": 7
+    };
+
+    function formatDate(dateString) {
+      if (!dateString) return "";
+      const d = new Date(dateString + "T00:00:00");
+      if (Number.isNaN(d.getTime())) return dateString;
+      return d.toLocaleDateString("es-ES", {
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric"
+      });
+    }
+
+    function sortSessions(sessions) {
+      return [...sessions].sort((a, b) => {
+        const dateA = new Date(a.date + "T00:00:00").getTime();
+        const dateB = new Date(b.date + "T00:00:00").getTime();
+
+        if (dateA !== dateB) return dateA - dateB;
+
+        const orderA = weekdayOrder[a.weekday.toLowerCase()] || 99;
+        const orderB = weekdayOrder[b.weekday.toLowerCase()] || 99;
+
+        if (orderA !== orderB) return orderA - orderB;
+
+        const timeA = a.time || "00:00";
+        const timeB = b.time || "00:00";
+        return timeA.localeCompare(timeB);
+      });
+    }
+
+    function renderModule(module) {
+      const sessions = sortSessions(module.sessions || []);
+
+      moduleHeader.innerHTML = `
+        <h2>${module.title || "Module"}</h2>
+        <p class="coordinator">${module.coordinator || "No coordinator specified"}</p>
+      `;
+
+      if (!sessions.length) {
+        tableWrap.innerHTML = `<div class="empty">No sessions available.</div>`;
+        return;
+      }
+
+      const rows = sessions.map(session => `
+        <tr>
+          <td data-label="Date">${formatDate(session.date)}</td>
+          <td data-label="Weekday">${session.weekday || ""}</td>
+          <td data-label="Time" class="time">${session.time || ""}</td>
+          <td data-label="Teacher">${session.teacher || ""}</td>
+          <td data-label="Topic" class="topic">${session.details || session.summary || ""}</td>
+          <td data-label="Room">${session.room || ""}</td>
+        </tr>
+      `).join("");
+
+      tableWrap.innerHTML = `
+        <table>
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Weekday</th>
+              <th>Time</th>
+              <th>Teacher</th>
+              <th>Topic</th>
+              <th>Room</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${rows}
+          </tbody>
+        </table>
+      `;
+    }
+
+    async function loadSchedule() {
+      try {
+        const response = await fetch("./Horarios 26-27.json");
+        if (!response.ok) throw new Error("JSON file not found");
+        const data = await response.json();
+
+        const modules = data.modules || [];
+        if (!modules.length) {
+          tableWrap.innerHTML = `<div class="empty">No modules found in the JSON file.</div>`;
+          return;
+        }
+
+        moduleSelect.innerHTML = modules.map((module, index) =>
+          `<option value="${index}">${module.title || `Module ${index + 1}`}</option>`
+        ).join("");
+
+        moduleSelect.onchange = () => {
+          renderModule(modules[Number(moduleSelect.value)]);
+        };
+
+        renderModule(modules[0]);
+      } catch (error) {
+        tableWrap.innerHTML = `
+          <div class="empty">
+            Error loading schedule: ${error.message}
+          </div>
+        `;
+      }
+    }
+
+    loadSchedule();
+  </script>
+</body>
+</html>
