@@ -1,0 +1,3134 @@
+{
+  "academic_year": "2026-2027",
+  "modules": [
+    {
+      "title": "SISTEMAS NATURALES Y SOCIEDAD (41052)",
+      "coordinator": "Julia Salom Carrasco (Julia.Salom@uv.es)",
+      "sessions": [
+        {
+          "weekday": "lunes",
+          "date": "2026-09-28",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "J. Escribano (U)",
+          "details": "Presentación máster / módulo",
+          "summary": "J. Escribano (U)\nPresentación máster / módulo"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-09-28",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "J. Escribano (U)",
+          "details": "Presentación máster / módulo",
+          "summary": "J. Escribano (U)\nPresentación máster / módulo"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-09-28",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 1",
+          "summary": "M. J. Estrela (T)\nTema 1"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-09-28",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 1",
+          "summary": "M. J. Estrela (T)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-09-29",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 1",
+          "summary": "M. J. Estrela (T)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-09-29",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 1",
+          "summary": "M. J. Estrela (T)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-09-29",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 1",
+          "summary": "M. J. Estrela (T)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-09-29",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 1",
+          "summary": "M. J. Estrela (T)\nTema 1"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-09-30",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 1",
+          "summary": "M. J. Estrela (T)\nTema 1"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-09-30",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 1",
+          "summary": "M. J. Estrela (T)\nTema 1"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-09-30",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "A. Cerdá (T)",
+          "details": "Tema 2",
+          "summary": "A. Cerdá (T)\nTema 2"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-09-30",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "A. Cerdá (T)",
+          "details": "Tema 2",
+          "summary": "A. Cerdá (T)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-01",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "A. Cerdá (P)",
+          "details": "Tema 2",
+          "summary": "A. Cerdá (P)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-01",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "A. Cerdá (P)",
+          "details": "Tema 2",
+          "summary": "A. Cerdá (P)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-01",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "A. Camarasa (T)",
+          "details": "Tema 3",
+          "summary": "A. Camarasa (T)\nTema 3"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-01",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "A. Camarasa (T)",
+          "details": "Tema 3",
+          "summary": "A. Camarasa (T)\nTema 3"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-10-02",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "A. Cerdá (O) + 5 horas: salida de campo (medio día): 09h30-15h00",
+          "summary": "A. Cerdá (O) + 5 horas: salida de campo (medio día): 09h30-15h00"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-05",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "A. Camarasa (T)",
+          "details": "Tema 3",
+          "summary": "A. Camarasa (T)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-05",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "A. Camarasa (T)",
+          "details": "Tema 3",
+          "summary": "A. Camarasa (T)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-05",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "M.J. López (T)",
+          "details": "Tema 4",
+          "summary": "M.J. López (T)\nTema 4"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-05",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "M.J. López (T)",
+          "details": "Tema 4",
+          "summary": "M.J. López (T)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-06",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "M.J. López (T)",
+          "details": "Tema 4",
+          "summary": "M.J. López (T)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-06",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "M.J. López (T)",
+          "details": "Tema 4",
+          "summary": "M.J. López (T)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-06",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "J. Salom (T)",
+          "details": "Tema 6",
+          "summary": "J. Salom (T)\nTema 6"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-06",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "J. Salom (T)",
+          "details": "Tema 6",
+          "summary": "J. Salom (T)\nTema 6"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-07",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "J. Salom (T)",
+          "details": "Tema 6",
+          "summary": "J. Salom (T)\nTema 6"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-07",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "J. Salom (T)",
+          "details": "Tema 6",
+          "summary": "J. Salom (T)\nTema 6"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-07",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (E)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (E)\nTema 7"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-07",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (E)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (E)\nTema 7"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-08",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (E)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (E)\nTema 7"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-08",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (T)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (T)\nTema 7"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-08",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "J. Salom (T)",
+          "details": "Tema 6",
+          "summary": "J. Salom (T)\nTema 6"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-08",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "J. Salom (T)",
+          "details": "Tema 6",
+          "summary": "J. Salom (T)\nTema 6"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-13",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (T)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (T)\nTema 7"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-13",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (T)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (T)\nTema 7"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-13",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (T)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (T)\nTema 7"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-13",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (T)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (T)\nTema 7"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-14",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (E)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (E)\nTema 7"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-14",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (E)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (E)\nTema 7"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-14",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-14",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-15",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-15",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-15",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (T)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (T)\nTema 7"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-15",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "J.V. Sánchez (T)",
+          "details": "Tema 7",
+          "summary": "J.V. Sánchez (T)\nTema 7"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-10-16",
+          "time": "16:00",
+          "room": "Cullera (Valencia)",
+          "teacher": "",
+          "details": "(Horario de mañana) Acto Inauguración en Cullera (Valencia), a cargo de la Cátedra Ciudad de Cullera (CoDtora. Carmen Zornoza)",
+          "summary": "(Horario de mañana) Acto Inauguración en Cullera (Valencia), a cargo de la Cátedra Ciudad de Cullera (CoDtora. Carmen Zornoza)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-10-16",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "SEMINARIO INTRODUCCIÓN A ARCGIS 1/3 - Prof. David de la Osada (david.osada@uv.es)",
+          "summary": "SEMINARIO INTRODUCCIÓN A ARCGIS 1/3 - Prof. David de la Osada (david.osada@uv.es)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-19",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "F. J. Gracia (P) -ext-",
+          "details": "Tema 5",
+          "summary": "F. J. Gracia (P) -ext-\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-19",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "F. J. Gracia (P) -ext-",
+          "details": "Tema 5",
+          "summary": "F. J. Gracia (P) -ext-\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-19",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "F. J. Gracia (T) -ext-",
+          "details": "Tema 5",
+          "summary": "F. J. Gracia (T) -ext-\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-19",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "F. J. Gracia (P) -ext-",
+          "details": "Tema 5",
+          "summary": "F. J. Gracia (P) -ext-\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-20",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "F. J. Gracia (T) -ext-",
+          "details": "Tema 5",
+          "summary": "F. J. Gracia (T) -ext-\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-20",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "F. J. Gracia (T) -ext-",
+          "details": "Tema 5",
+          "summary": "F. J. Gracia (T) -ext-\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-20",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "F. J. Gracia (T) -ext-",
+          "details": "Tema 5",
+          "summary": "F. J. Gracia (T) -ext-\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-20",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "F. J. Gracia (T) -ext-",
+          "details": "Tema 5",
+          "summary": "F. J. Gracia (T) -ext-\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-21",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-21",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-21",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-22",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-22",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "X. Farinós (T)",
+          "details": "Tema 8",
+          "summary": "X. Farinós (T)\nTema 8"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-22",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "J. Hermosilla (T)",
+          "details": "Tema 9",
+          "summary": "J. Hermosilla (T)\nTema 9"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-22",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "J. Hermosilla (T)",
+          "details": "Tema 9",
+          "summary": "J. Hermosilla (T)\nTema 9"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-10-23",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "SEMINARIO INTRODUCCIÓN A ARCGIS 2/3 - Prof. David de la Osada (david.osada@uv.es)",
+          "summary": "SEMINARIO INTRODUCCIÓN A ARCGIS 2/3 - Prof. David de la Osada (david.osada@uv.es)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-26",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "J. Hermosilla (T)",
+          "details": "Tema 9",
+          "summary": "J. Hermosilla (T)\nTema 9"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-26",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "J. Hermosilla (T)",
+          "details": "Tema 9",
+          "summary": "J. Hermosilla (T)\nTema 9"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-26",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "V. Domenech (E) -ext-",
+          "details": "Tema 9",
+          "summary": "V. Domenech (E) -ext-\nTema 9"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-10-26",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "V. Domenech (E) -ext-",
+          "details": "Tema 9",
+          "summary": "V. Domenech (E) -ext-\nTema 9"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-27",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "V. Domenech (E) -ext-",
+          "details": "Tema 9",
+          "summary": "V. Domenech (E) -ext-\nTema 9"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-27",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "V. Domenech (E) -ext-",
+          "details": "Tema 9",
+          "summary": "V. Domenech (E) -ext-\nTema 9"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-27",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "J. Hermosilla (T)",
+          "details": "Tema 9",
+          "summary": "J. Hermosilla (T)\nTema 9"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-10-27",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "J. Hermosilla (T)",
+          "details": "Tema 9",
+          "summary": "J. Hermosilla (T)\nTema 9"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-28",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "J. Olcina (T) -ext-",
+          "details": "Tema 10",
+          "summary": "J. Olcina (T) -ext-\nTema 10"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-28",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "J. Olcina (T) -ext-",
+          "details": "Tema 10",
+          "summary": "J. Olcina (T) -ext-\nTema 10"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-28",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "J. Romero (T)",
+          "details": "Tema 10",
+          "summary": "J. Romero (T)\nTema 10"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-10-28",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "J. Romero (T)",
+          "details": "Tema 10",
+          "summary": "J. Romero (T)\nTema 10"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-29",
+          "time": "16:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (O)",
+          "details": "Preparación salida campo",
+          "summary": "M. J. Estrela (O)\nPreparación salida campo"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-29",
+          "time": "17:00",
+          "room": "GH4.1",
+          "teacher": "M. J. Estrela (O)",
+          "details": "Preparación salida campo",
+          "summary": "M. J. Estrela (O)\nPreparación salida campo"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-29",
+          "time": "18:00",
+          "room": "GH4.1",
+          "teacher": "J. Esccribano (U)",
+          "details": "Coordinación",
+          "summary": "J. Esccribano (U)\nCoordinación"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-10-29",
+          "time": "19:00",
+          "room": "GH4.1",
+          "teacher": "J. Escribano (U)",
+          "details": "Coordinación",
+          "summary": "J. Escribano (U)\nCoordinación"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-10-30",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "M. J. Estrela (O) + 5 horas: salida de campo (medio día): 09h30-15h00",
+          "summary": "M. J. Estrela (O) + 5 horas: salida de campo (medio día): 09h30-15h00"
+        }
+      ]
+    },
+    {
+      "title": "TÉCNICAS PARA EL ANÁLISIS Y EL PROCESAMIENTO DE LA INFORMACIÓN GEOGRÁFICA (41053)",
+      "coordinator": "Carlos Sanchis Ibor (Carlos.Sanchis@uv.es)",
+      "sessions": [
+        {
+          "weekday": "lunes",
+          "date": "2026-11-02",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (T)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (T)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-02",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (T)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (T)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-02",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (P)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (P)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-02",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (P)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (P)\nTema 3"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-03",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (I)\nTema 3"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-03",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (I)\nTema 3"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-03",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (I)\nTema 3"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-03",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (I)\nTema 3"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-04",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (inf) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (inf) -ext-\nTema 3"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-04",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (inf) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (inf) -ext-\nTema 3"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-04",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (inf) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (inf) -ext-\nTema 3"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-04",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (inf) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (inf) -ext-\nTema 3"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-05",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (P) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (P) -ext-\nTema 3"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-05",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (P) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (P) -ext-\nTema 3"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-05",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (P) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (P) -ext-\nTema 3"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-05",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (P) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (P) -ext-\nTema 3"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-11-06",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "(Horario de mañana) TALLER EMPRENDIMIENTO -  Prof. Emilio Iranzo (Emilio.Iranzo-Garcia@uv.es)",
+          "summary": "(Horario de mañana) TALLER EMPRENDIMIENTO -  Prof. Emilio Iranzo (Emilio.Iranzo-Garcia@uv.es)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-11-06",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "SEMINARIO INTRODUCCIÓN A ARCGIS 3/3 - Prof. David de la Osada (david.osada@uv.es)",
+          "summary": "SEMINARIO INTRODUCCIÓN A ARCGIS 3/3 - Prof. David de la Osada (david.osada@uv.es)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-09",
+          "time": "16:00",
+          "room": "ENTREU",
+          "teacher": "",
+          "details": "Depósito / entrega de TFM 1era Ventana de 1era Convocatoria (hasta las 23h55)",
+          "summary": "Depósito / entrega de TFM 1era Ventana de 1era Convocatoria (hasta las 23h55)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-09",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (inf) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (inf) -ext-\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-09",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "I. C. Maestro (inf) -ext-",
+          "details": "Tema 3",
+          "summary": "I. C. Maestro (inf) -ext-\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-09",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 1",
+          "summary": "C. Sanchis (I)\nTema 1"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-09",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 1",
+          "summary": "C. Sanchis (I)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-10",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (I)\nTema 3"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-10",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 3",
+          "summary": "G. Fansa (I)\nTema 3"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-10",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 4",
+          "summary": "G. Fansa (I)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-10",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 4",
+          "summary": "G. Fansa (I)\nTema 4"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-11",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 4",
+          "summary": "G. Fansa (I)\nTema 4"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-11",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 4",
+          "summary": "G. Fansa (I)\nTema 4"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-11",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 4",
+          "summary": "G. Fansa (I)\nTema 4"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-11",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "G. Fansa (I)",
+          "details": "Tema 4",
+          "summary": "G. Fansa (I)\nTema 4"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-12",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-12",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-12",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-12",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-11-13",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "TALLER Q-GIS 1/2 - Prof. Elisa Bermejo Navarro (elisabermejo@gmail.com / elisa.bermejo@ext.uv.es)",
+          "summary": "TALLER Q-GIS 1/2 - Prof. Elisa Bermejo Navarro (elisabermejo@gmail.com / elisa.bermejo@ext.uv.es)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-16",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-16",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-16",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-16",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-17",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-17",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-17",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-17",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-18",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-18",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-18",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-18",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-19",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-19",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-19",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-19",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-11-20",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "TALLER Q-GIS 2/2 - Prof. Elisa Bermejo Navarro (elisabermejo@gmail.com / elisa.bermejo@ext.uv.es)",
+          "summary": "TALLER Q-GIS 2/2 - Prof. Elisa Bermejo Navarro (elisabermejo@gmail.com / elisa.bermejo@ext.uv.es)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-23",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-23",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-23",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-23",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-24",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (E)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (E)\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-24",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (E)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (E)\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-24",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (E)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (E)\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-11-24",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (E)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (E)\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-25",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-25",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-25",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (P)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (P)\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-11-25",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (P)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (P)\nTema 5"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-26",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-26",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-26",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-11-26",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "A. B. Ruescas (I)",
+          "details": "Tema 2",
+          "summary": "A. B. Ruescas (I)\nTema 2"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-11-27",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-11-27",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-11-27",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-11-27",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-11-27",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "Finaliza 1era convocatoria del módulo SISTEMAS NATURALES Y SOCIEDAD (41052)",
+          "summary": "Finaliza 1era convocatoria del módulo SISTEMAS NATURALES Y SOCIEDAD (41052)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-30",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-30",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "E. Iranzo (T)",
+          "details": "Tema 5",
+          "summary": "E. Iranzo (T)\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-30",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (I)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (I)\nTema 8"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-11-30",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (I)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (I)\nTema 8"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-01",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (T)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (T)\nTema 8"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-01",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (T)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (T)\nTema 8"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-01",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (P)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (P)\nTema 8"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-01",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (P)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (P)\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-02",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (I)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (I)\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-02",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (I)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (I)\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-02",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (I)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (I)\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-02",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Zornoza (I)",
+          "details": "Tema 8",
+          "summary": "C. Zornoza (I)\nTema 8"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-03",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "J. V. Boira (inf)",
+          "details": "Tema 9",
+          "summary": "J. V. Boira (inf)\nTema 9"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-03",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "J. V. Boira (inf)",
+          "details": "Tema 9",
+          "summary": "J. V. Boira (inf)\nTema 9"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-03",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "J. V. Boira (inf)",
+          "details": "Tema 9",
+          "summary": "J. V. Boira (inf)\nTema 9"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-03",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "J. V. Boira (inf)",
+          "details": "Tema 9",
+          "summary": "J. V. Boira (inf)\nTema 9"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-12-04",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "TALLER GESTIÓN AMBIENTAL DE LA EMPRESA 1/2 - Prof. Manuel Alejandro Vicente Mazzuz (manuelvicente@qualityadviser.com)",
+          "summary": "TALLER GESTIÓN AMBIENTAL DE LA EMPRESA 1/2 - Prof. Manuel Alejandro Vicente Mazzuz (manuelvicente@qualityadviser.com)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-07",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-07",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-07",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-07",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-09",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "J. V. Boira (inf)",
+          "details": "Tema 9",
+          "summary": "J. V. Boira (inf)\nTema 9"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-09",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "J. V. Boira (inf)",
+          "details": "Tema 9",
+          "summary": "J. V. Boira (inf)\nTema 9"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-09",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "J. V. Boira (inf)",
+          "details": "Tema 9",
+          "summary": "J. V. Boira (inf)\nTema 9"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-09",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "J. V. Boira (inf)",
+          "details": "Tema 9",
+          "summary": "J. V. Boira (inf)\nTema 9"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-10",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (O)",
+          "details": "Tema 1",
+          "summary": "C. Sanchis (O)\nTema 1"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-10",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (O)",
+          "details": "Tema 1",
+          "summary": "C. Sanchis (O)\nTema 1"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-10",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (U)",
+          "details": "Tema 1",
+          "summary": "D. Corell (U)\nTema 1"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-10",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (U)",
+          "details": "Tema 1",
+          "summary": "D. Corell (U)\nTema 1"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-12-11",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "TALLER GESTIÓN AMBIENTAL DE LA EMPRESA 2/2 - Prof. Manuel Alejandro Vicente Mazzuz (manuelvicente@qualityadviser.com)",
+          "summary": "TALLER GESTIÓN AMBIENTAL DE LA EMPRESA 2/2 - Prof. Manuel Alejandro Vicente Mazzuz (manuelvicente@qualityadviser.com)"
+        }
+      ]
+    },
+    {
+      "title": "RESTAURACIÓN DEL MEDIO NATURAL Y ANÁLISIS DE LAS ALTERACIONES CLIMÁTICAS (41055)",
+      "coordinator": "David Corell (David.Corell@uv.es)",
+      "sessions": [
+        {
+          "weekday": "lunes",
+          "date": "2026-12-14",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 3",
+          "summary": "M. J. Estrela (T)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-14",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 3",
+          "summary": "M. J. Estrela (T)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-14",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 3",
+          "summary": "M. J. Estrela (T)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-14",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. J. Estrela (T)",
+          "details": "Tema 3",
+          "summary": "M. J. Estrela (T)\nTema 3"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-15",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (T)",
+          "details": "Tema 1",
+          "summary": "D. Corell (T)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-15",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (T)",
+          "details": "Tema 1",
+          "summary": "D. Corell (T)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-15",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (O)",
+          "details": "Tema 1",
+          "summary": "D. Corell (O)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-15",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (O)",
+          "details": "Tema 1",
+          "summary": "D. Corell (O)\nTema 1"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-16",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (O)",
+          "details": "Tema 1",
+          "summary": "D. Corell (O)\nTema 1"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-16",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (O)",
+          "details": "Tema 1",
+          "summary": "D. Corell (O)\nTema 1"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-16",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (O)",
+          "details": "Tema 1",
+          "summary": "D. Corell (O)\nTema 1"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-16",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "D. Corell (O)",
+          "details": "Tema 1",
+          "summary": "D. Corell (O)\nTema 1"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-17",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. J. López (I)",
+          "details": "Tema 2",
+          "summary": "M. J. López (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-17",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. J. López (I)",
+          "details": "Tema 2",
+          "summary": "M. J. López (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-17",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. J. López (I)",
+          "details": "Tema 2",
+          "summary": "M. J. López (I)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2026-12-17",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. J. López (I)",
+          "details": "Tema 2",
+          "summary": "M. J. López (I)\nTema 2"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-12-18",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "ORIENTACIÓN PE (ADEIT + Coordinación)",
+          "summary": "ORIENTACIÓN PE (ADEIT + Coordinación)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2026-12-18",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "ORIENTACIÓN TFM (Coordinación)",
+          "summary": "ORIENTACIÓN TFM (Coordinación)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-21",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (I)",
+          "details": "Tema 4",
+          "summary": "A. Camarasa (I)\nTema 4"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-21",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (I)",
+          "details": "Tema 4",
+          "summary": "A. Camarasa (I)\nTema 4"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-21",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (I)",
+          "details": "Tema 4",
+          "summary": "A. Camarasa (I)\nTema 4"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2026-12-21",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (I)",
+          "details": "Tema 4",
+          "summary": "A. Camarasa (I)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-22",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (I)",
+          "details": "Tema 4",
+          "summary": "A. Camarasa (I)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-22",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (I)",
+          "details": "Tema 4",
+          "summary": "A. Camarasa (I)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-22",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (I)",
+          "details": "Tema 4",
+          "summary": "A. Camarasa (I)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2026-12-22",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (I)",
+          "details": "Tema 4",
+          "summary": "A. Camarasa (I)\nTema 4"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-23",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. González (I) -ext-",
+          "details": "Tema 5",
+          "summary": "M. González (I) -ext-\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-23",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. González (I) -ext-",
+          "details": "Tema 5",
+          "summary": "M. González (I) -ext-\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-23",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. González (I) -ext-",
+          "details": "Tema 5",
+          "summary": "M. González (I) -ext-\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-23",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. González (I) -ext-",
+          "details": "Tema 5",
+          "summary": "M. González (I) -ext-\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2026-12-23",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "Finaliza 1era convocatoria del módulo TÉCNICAS PARA EL ANÁLISIS Y EL PROCESAMIENTO DE LA INFORMACIÓN GEOGRÁFICA (41053)",
+          "summary": "Finaliza 1era convocatoria del módulo TÉCNICAS PARA EL ANÁLISIS Y EL PROCESAMIENTO DE LA INFORMACIÓN GEOGRÁFICA (41053)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-11",
+          "time": "16:00",
+          "room": "ENTREU",
+          "teacher": "",
+          "details": "Depósito / entrega de TFM 2da Ventana de 1era Convocatoria (hasta las 23h55)",
+          "summary": "Depósito / entrega de TFM 2da Ventana de 1era Convocatoria (hasta las 23h55)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-11",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. González (I) -ext-",
+          "details": "Tema 5",
+          "summary": "M. González (I) -ext-\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-11",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. González (I) -ext-",
+          "details": "Tema 5",
+          "summary": "M. González (I) -ext-\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-11",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. González (I) -ext-",
+          "details": "Tema 5",
+          "summary": "M. González (I) -ext-\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-11",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. González (I) -ext-",
+          "details": "Tema 5",
+          "summary": "M. González (I) -ext-\nTema 5"
+        }
+      ]
+    },
+    {
+      "title": "EL MEDIO FÍSICO. TRABAJO DE CAMPO Y CARTOGRAFÍA  (41054)",
+      "coordinator": "Ana María Camarasa Belmonte (Ana.Camarasa@uv.es)",
+      "sessions": [
+        {
+          "weekday": "martes",
+          "date": "2027-01-12",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (U)",
+          "details": "Tema 1",
+          "summary": "A. Camarasa (U)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-12",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (U)",
+          "details": "Tema 1",
+          "summary": "A. Camarasa (U)\nTema 1"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-12",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "I. Portugués (E)",
+          "details": "Tema 2",
+          "summary": "I. Portugués (E)\nTema 2"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-12",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "I. Portugués (E)",
+          "details": "Tema 2",
+          "summary": "I. Portugués (E)\nTema 2"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-01-13",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "I. Portugués (E)",
+          "details": "Tema 2",
+          "summary": "I. Portugués (E)\nTema 2"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-01-13",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "I. Portugués (E)",
+          "details": "Tema 2",
+          "summary": "I. Portugués (E)\nTema 2"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-01-13",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "I. Portugués (E)",
+          "details": "Tema 2",
+          "summary": "I. Portugués (E)\nTema 2"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-01-13",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "I. Portugués (E)",
+          "details": "Tema 2",
+          "summary": "I. Portugués (E)\nTema 2"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-01-14",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Carbó (I)",
+          "details": "Tema 3",
+          "summary": "E. Carbó (I)\nTema 3"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-01-14",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Carbó (I)",
+          "details": "Tema 3",
+          "summary": "E. Carbó (I)\nTema 3"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-01-14",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Carbó (I)",
+          "details": "Tema 3",
+          "summary": "E. Carbó (I)\nTema 3"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-01-14",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Carbó (I)",
+          "details": "Tema 3",
+          "summary": "E. Carbó (I)\nTema 3"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-01-15",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "TALLER PROGRAMACIÓN CON R 1/2 - Prof. Patricia Carracedo Garnateo (pcarracedo@eio.upv.es)",
+          "summary": "TALLER PROGRAMACIÓN CON R 1/2 - Prof. Patricia Carracedo Garnateo (pcarracedo@eio.upv.es)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-18",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Carbó (I)",
+          "details": "Tema 3",
+          "summary": "E. Carbó (I)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-18",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Carbó (I)",
+          "details": "Tema 3",
+          "summary": "E. Carbó (I)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-18",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Carbó (I)",
+          "details": "Tema 3",
+          "summary": "E. Carbó (I)\nTema 3"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-18",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Carbó (I)",
+          "details": "Tema 3",
+          "summary": "E. Carbó (I)\nTema 3"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-19",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (T)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (T)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-19",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (T)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (T)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-19",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (T)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (T)\nTema 4"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-19",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (T)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (T)\nTema 4"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-01-20",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (I)\nTema 4"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-01-20",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (I)\nTema 4"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-01-20",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (I)\nTema 4"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-01-20",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (O)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (O)\nTema 4"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-01-21",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Sanchis (O)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (O)\nTema 4"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-01-21",
+          "time": "17:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Sanchis (O)",
+          "details": "Tema 4",
+          "summary": "C. Sanchis (O)\nTema 4"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-01-21",
+          "time": "18:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Sanchis (O)",
+          "details": "Preparación salida",
+          "summary": "C. Sanchis (O)\nPreparación salida"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-01-21",
+          "time": "19:00",
+          "room": "A. Inf. F04",
+          "teacher": "C. Sanchis (O)",
+          "details": "Preparación salida",
+          "summary": "C. Sanchis (O)\nPreparación salida"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-25",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa  (I)",
+          "details": "Tema 5",
+          "summary": "A. Camarasa  (I)\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-25",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa  (I)",
+          "details": "Tema 5",
+          "summary": "A. Camarasa  (I)\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-25",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa  (I)",
+          "details": "Tema 5",
+          "summary": "A. Camarasa  (I)\nTema 5"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-01-25",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa  (I)",
+          "details": "Tema 5",
+          "summary": "A. Camarasa  (I)\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-26",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa (I)",
+          "details": "Tema 5",
+          "summary": "A. Camarasa (I)\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-26",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa  (I)",
+          "details": "Tema 5",
+          "summary": "A. Camarasa  (I)\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-26",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa  (I)",
+          "details": "Tema 5",
+          "summary": "A. Camarasa  (I)\nTema 5"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-01-26",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Camarasa  (I)",
+          "details": "Tema 5",
+          "summary": "A. Camarasa  (I)\nTema 5"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-01-27",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "C. Sanchis (O) + 5 horas: salida de campo (medio día): 09h30-15h00",
+          "summary": "C. Sanchis (O) + 5 horas: salida de campo (medio día): 09h30-15h00"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-01-28",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "I. Portugués (O) + 6 horas: salida de campo (medio día): 09h30-15h00",
+          "summary": "I. Portugués (O) + 6 horas: salida de campo (medio día): 09h30-15h00"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-01-29",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "TALLER EMPRENDIMIENTO -  Prof. Emilio Iranzo (Emilio.Iranzo-Garcia@uv.es)",
+          "summary": "TALLER EMPRENDIMIENTO -  Prof. Emilio Iranzo (Emilio.Iranzo-Garcia@uv.es)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-01-29",
+          "time": "16:00",
+          "room": "F3.1",
+          "teacher": "",
+          "details": "PROCEDIMIENTO ASIGNACIÓN PE (Coordinación) (15h30-17h00)",
+          "summary": "PROCEDIMIENTO ASIGNACIÓN PE (Coordinación) (15h30-17h00)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-01-29",
+          "time": "18:00",
+          "room": "F3.1",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-01-29",
+          "time": "19:00",
+          "room": "F3.1",
+          "teacher": "",
+          "details": "Disponible posibles cambios",
+          "summary": "Disponible posibles cambios"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-01",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. L. Pettinari (I) -ext-",
+          "details": "Tema 6",
+          "summary": "M. L. Pettinari (I) -ext-\nTema 6"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-01",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. L. Pettinari (I) -ext-",
+          "details": "Tema 6",
+          "summary": "M. L. Pettinari (I) -ext-\nTema 6"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-01",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. L. Pettinari (I) -ext-",
+          "details": "Tema 6",
+          "summary": "M. L. Pettinari (I) -ext-\nTema 6"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-01",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. L. Pettinari (I) -ext-",
+          "details": "Tema 6",
+          "summary": "M. L. Pettinari (I) -ext-\nTema 6"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-02",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. L. Pettinari (I) -ext-",
+          "details": "Tema 6",
+          "summary": "M. L. Pettinari (I) -ext-\nTema 6"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-02",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. L. Pettinari (I) -ext-",
+          "details": "Tema 6",
+          "summary": "M. L. Pettinari (I) -ext-\nTema 6"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-02",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. L. Pettinari (I) -ext-",
+          "details": "Tema 6",
+          "summary": "M. L. Pettinari (I) -ext-\nTema 6"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-02",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "M. L. Pettinari (I) -ext-",
+          "details": "Tema 6",
+          "summary": "M. L. Pettinari (I) -ext-\nTema 6"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-03",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Bochet (I) -ext-",
+          "details": "Tema 8",
+          "summary": "E. Bochet (I) -ext-\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-03",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Bochet (I) -ext-",
+          "details": "Tema 8",
+          "summary": "E. Bochet (I) -ext-\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-03",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Bochet (I) -ext-",
+          "details": "Tema 8",
+          "summary": "E. Bochet (I) -ext-\nTema 8"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-03",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Bochet (I) -ext-",
+          "details": "Tema 8",
+          "summary": "E. Bochet (I) -ext-\nTema 8"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-02-04",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "A. Camarasa (I) + 7 horas: salida de campo (medio día): 09h30-15h00",
+          "summary": "A. Camarasa (I) + 7 horas: salida de campo (medio día): 09h30-15h00"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-02-05",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "TALLER PROGRAMACIÓN CON R 2/2 - Prof. Patricia Carracedo Garnateo (pcarracedo@eio.upv.es)",
+          "summary": "TALLER PROGRAMACIÓN CON R 2/2 - Prof. Patricia Carracedo Garnateo (pcarracedo@eio.upv.es)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-08",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Bochet (I) -ext-",
+          "details": "Tema 8",
+          "summary": "E. Bochet (I) -ext-\nTema 8"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-08",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Bochet (I) -ext-",
+          "details": "Tema 8",
+          "summary": "E. Bochet (I) -ext-\nTema 8"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-08",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Bochet (I) -ext-",
+          "details": "Tema 8",
+          "summary": "E. Bochet (I) -ext-\nTema 8"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-08",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "E. Bochet (I) -ext-",
+          "details": "Tema 8",
+          "summary": "E. Bochet (I) -ext-\nTema 8"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-09",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-09",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-09",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-09",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-10",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-10",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-10",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-10",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-02-11",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-02-11",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-02-11",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-02-11",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "C. Sanchis (I)",
+          "details": "Tema 6",
+          "summary": "C. Sanchis (I)\nTema 6"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-02-12",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "TALLER PROGRAMACIÓN CON PHYTON 1/2 - Prof. María Pilar Cendrero (m.pilar.cendrero@uv.es)",
+          "summary": "TALLER PROGRAMACIÓN CON PHYTON 1/2 - Prof. María Pilar Cendrero (m.pilar.cendrero@uv.es)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-15",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Valdecantos (I) -ext-",
+          "details": "Tema 7",
+          "summary": "A. Valdecantos (I) -ext-\nTema 7"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-15",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Valdecantos (I) -ext-",
+          "details": "Tema 7",
+          "summary": "A. Valdecantos (I) -ext-\nTema 7"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-15",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Valdecantos (I) -ext-",
+          "details": "Tema 7",
+          "summary": "A. Valdecantos (I) -ext-\nTema 7"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-15",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Valdecantos (I) -ext-",
+          "details": "Tema 7",
+          "summary": "A. Valdecantos (I) -ext-\nTema 7"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-16",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Valdecantos (I) -ext-",
+          "details": "Tema 7",
+          "summary": "A. Valdecantos (I) -ext-\nTema 7"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-16",
+          "time": "17:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Valdecantos (I) -ext-",
+          "details": "Tema 7",
+          "summary": "A. Valdecantos (I) -ext-\nTema 7"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-16",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Valdecantos (I) -ext-",
+          "details": "Tema 7",
+          "summary": "A. Valdecantos (I) -ext-\nTema 7"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-02-16",
+          "time": "19:00",
+          "room": "A. Inf. F03",
+          "teacher": "A. Valdecantos (I) -ext-",
+          "details": "Tema 7",
+          "summary": "A. Valdecantos (I) -ext-\nTema 7"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-17",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "TALLER \"RESTAURACIÓN MINAS\". TEORIA",
+          "details": "Sesión matinal 10h00\nAna I. Aparicio  (aparicio.ana@vaersa.org) e Iban Hurtado (ihurtado@vaersa.org)",
+          "summary": "TALLER \"RESTAURACIÓN MINAS\". TEORIA\nSesión matinal 10h00\nAna I. Aparicio  (aparicio.ana@vaersa.org) e Iban Hurtado (ihurtado@vaersa.org)"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-02-17",
+          "time": "18:00",
+          "room": "A. Inf. F03",
+          "teacher": "TALLER \"RESTAURACIÓN MINAS\". TEORIA",
+          "details": "Sesión matinal 11h00\nAna I. Aparicio  (aparicio.ana@vaersa.org) e Iban Hurtado (ihurtado@vaersa.org)",
+          "summary": "TALLER \"RESTAURACIÓN MINAS\". TEORIA\nSesión matinal 11h00\nAna I. Aparicio  (aparicio.ana@vaersa.org) e Iban Hurtado (ihurtado@vaersa.org)"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-02-18",
+          "time": "16:00",
+          "room": "F3.1",
+          "teacher": "",
+          "details": "FORO EMPLEO UVEmpleo + FORMACIÓN ESPECIFICA Y DINÁMICAS DE INSERCIÓN",
+          "summary": "FORO EMPLEO UVEmpleo + FORMACIÓN ESPECIFICA Y DINÁMICAS DE INSERCIÓN"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-02-19",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "TALLER \"RESTAURACIÓN MINAS\". Salida de campo (medio día): 09h30-15h00 -  Ana I. Aparicio  (aparicio.ana@vaersa.org) e Iban Hurtado (ihurtado@vaersa.org)",
+          "summary": "TALLER \"RESTAURACIÓN MINAS\". Salida de campo (medio día): 09h30-15h00 -  Ana I. Aparicio  (aparicio.ana@vaersa.org) e Iban Hurtado (ihurtado@vaersa.org)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-02-22",
+          "time": "16:00",
+          "room": "A. Inf. F04",
+          "teacher": "",
+          "details": "TALLER PROGRAMACIÓN CON PHYTON 2/2 - Prof. María Pilar Cendrero (m.pilar.cendrero@uv.es)",
+          "summary": "TALLER PROGRAMACIÓN CON PHYTON 2/2 - Prof. María Pilar Cendrero (m.pilar.cendrero@uv.es)"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-02-25",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "",
+          "details": "EXAMENES 1era convocatoria",
+          "summary": "EXAMENES 1era convocatoria"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-02-26",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "ACTO CLAUSURA",
+          "summary": "ACTO CLAUSURA"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-03-08",
+          "time": "16:00",
+          "room": "ENTREU",
+          "teacher": "",
+          "details": "Depósito / entrega de TFM 3ra Ventana de 1era Convocatoria (hasta las 23h55)",
+          "summary": "Depósito / entrega de TFM 3ra Ventana de 1era Convocatoria (hasta las 23h55)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-03-12",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "Finaliza 1era convocatoria de los módulos optativos de ambos itinerarios",
+          "summary": "Finaliza 1era convocatoria de los módulos optativos de ambos itinerarios"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-05-10",
+          "time": "16:00",
+          "room": "ENTREU",
+          "teacher": "",
+          "details": "Depósito / entrega de TFM 4ta Ventana de 1era Convocatoria (hasta las 23h55)",
+          "summary": "Depósito / entrega de TFM 4ta Ventana de 1era Convocatoria (hasta las 23h55)"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-05-11",
+          "time": "16:00",
+          "room": "Aula Virtual",
+          "teacher": "",
+          "details": "Entrega Informe Intermedio TFM (Tutor-estudiante)",
+          "summary": "Entrega Informe Intermedio TFM (Tutor-estudiante)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-05-31",
+          "time": "16:00",
+          "room": "A. Inf. F03",
+          "teacher": "",
+          "details": "EXAMENES 2da convocatoria",
+          "summary": "EXAMENES 2da convocatoria"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-06-07",
+          "time": "16:00",
+          "room": "Zoom",
+          "teacher": "",
+          "details": "TALLER Experiencias profesionales (egresados y empleadores del máster)",
+          "summary": "TALLER Experiencias profesionales (egresados y empleadores del máster)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-06-14",
+          "time": "16:00",
+          "room": "Moodle",
+          "teacher": "",
+          "details": "Entrega Memoria PRÁCTICAS EXTERNAS 1era Convocatoria (hasta las 23h55)",
+          "summary": "Entrega Memoria PRÁCTICAS EXTERNAS 1era Convocatoria (hasta las 23h55)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-06-28",
+          "time": "16:00",
+          "room": "Email del tutor/a",
+          "teacher": "",
+          "details": "Fecha límite para presentar el TFM 5ta y última Ventana de 1era Convocatoria al tutor/a y obtener su VB para el depósito (hasta las 23h55)",
+          "summary": "Fecha límite para presentar el TFM 5ta y última Ventana de 1era Convocatoria al tutor/a y obtener su VB para el depósito (hasta las 23h55)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-07-12",
+          "time": "16:00",
+          "room": "ENTREU",
+          "teacher": "",
+          "details": "Depósito / entrega de TFM 5ta y última Ventana de 1era Convocatoria (hasta las 23h55)",
+          "summary": "Depósito / entrega de TFM 5ta y última Ventana de 1era Convocatoria (hasta las 23h55)"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-07-15",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-07-15",
+          "time": "16:00",
+          "room": "Moodle",
+          "teacher": "",
+          "details": "Entrega Memoria PRÁCTICAS EXTERNAS 2da Convocatoria (hasta las 23h55)",
+          "summary": "Entrega Memoria PRÁCTICAS EXTERNAS 2da Convocatoria (hasta las 23h55)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-07-16",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-07-16",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "Finaliza 2da convocatoria de todos los módulos del máster (obligatorios y optativos) (salvo la 2da convocatoria de TFM -septiembre-)",
+          "summary": "Finaliza 2da convocatoria de todos los módulos del máster (obligatorios y optativos) (salvo la 2da convocatoria de TFM -septiembre-)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-07-19",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-07-20",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-07-21",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-07-22",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-07-23",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-07-26",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-07-27",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-07-28",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-07-29",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 1era Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-08-30",
+          "time": "16:00",
+          "room": "Email del tutor/a",
+          "teacher": "",
+          "details": "Fecha límite para presentar el TFM de 2da Convocatoria al tutor/a y obtener su VB para el depósito (hasta las 23h55)",
+          "summary": "Fecha límite para presentar el TFM de 2da Convocatoria al tutor/a y obtener su VB para el depósito (hasta las 23h55)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-09-13",
+          "time": "16:00",
+          "room": "ENTREU",
+          "teacher": "",
+          "details": "Depósito / entrega única de TFM 2da Convocatoria (hasta las 23h55)",
+          "summary": "Depósito / entrega única de TFM 2da Convocatoria (hasta las 23h55)"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-09-16",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-09-17",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-09-20",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-09-21",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-09-22",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-09-23",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "viernes",
+          "date": "2027-09-24",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "lunes",
+          "date": "2027-09-27",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "martes",
+          "date": "2027-09-28",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "miércoles",
+          "date": "2027-09-29",
+          "time": "16:00",
+          "room": "Por determinar",
+          "teacher": "",
+          "details": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)",
+          "summary": "Posible período de lectura-defensa TFM 2da Convocatoria (fecha y hora concreta a fijar por el tribunal)"
+        },
+        {
+          "weekday": "jueves",
+          "date": "2027-09-30",
+          "time": "16:00",
+          "room": "",
+          "teacher": "",
+          "details": "FIN CURSO ACADÉMICO 2026-2027",
+          "summary": "FIN CURSO ACADÉMICO 2026-2027"
+        }
+      ]
+    }
+  ]
+}
